@@ -12,5 +12,5 @@ install.packages("markdown")
 install.packages("yaml")
 
 # You may also get an error message even if you have already installed some 
-# LaTeX bundle. In this case or if you don't have LaTex try the following:
+# LaTeX bundle. In this case or if you don't have LaTeX try the following:
 tinytex::install_tinytex()
