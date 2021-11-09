@@ -4,10 +4,15 @@ This project is intended to be a course to learn RMarkdown. It contains a number
 
 ## Lessons
 
-00_Setup
-01_GettingStarted
-02_MovingForward
-03_KeepingCalm
+- 00_Setup: Packages one needs to install to use RMarkdown
+- 01_GettingStarted: Making first steps in RMarkdown
+- 02_MovingForward: Going one step further ...  
+- 03_KeepingCalm: Discovering obstacles and overcome them ...
+
+It is intended to provide two further lessons on
+
+- 05_UsingPapaja: Using an RMarkdown template for APA-style manuscripts
+- 06_Collaborating: Using GitHub and Overleaf to collaborate with others
 
 To take this course, it is useful to have some command of the markdown language in general and of LaTeX as well as of the statistical computing software R that is best used together with RStudio. Below, we first give some recommendations for introducing oneself in markdown and LaTeX. Then we outline where to download R and RStudio, and how to get acquainted with this software and with RMarkdown. 
 
