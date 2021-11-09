@@ -50,7 +50,7 @@ self-explaining.
 
 ## RMarkdown
 
-We are thinking about using R together with RMarkdown to analyse and report the 
+We will use R together with RMarkdown to analyse and report the 
 data of this project. RMarkdown enables one to analyze data and report it in one
 instance and in a dynamic manner. That is, if one later makes some analysis decision 
 that will affect all downstream analyses (such as removing an outlier), the
@@ -60,7 +60,7 @@ A helpful guide to RMarkdown is given below, again together with a cheat sheet.
 - [Bookdown](https://bookdown.org/yihui/bookdown/)
 - [RMarkdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
-Because if we use RMarkdown, we will also use the R package *papaja* dedicated to 
+Because we will also use the R package *papaja* dedicated to 
 use RMarkdown for writing scientific articles in APA style, one needs to install it
 as described on the author's GitHub site and it may pay to familiarize yourself with 
 the manual:
