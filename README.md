@@ -42,7 +42,7 @@ denser overview on the basics of R, you may want to use the cheat sheet below:
 - [Base R Cheat Sheet][5]
 
 It is recommended to use R with RStudio as frontend, it makes working with R so
-much easier, and its free. So far, I could not find a both useful *and* visually
+much easier, and it’s free. So far, I could not find a both useful *and* visually
 appealing introduction, just ask Google if you do not find RStudio's GUI 
 self-explaining.
 
