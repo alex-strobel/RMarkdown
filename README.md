@@ -48,25 +48,27 @@ self-explaining.
 
 - [RStudio][6]
 
-## RMarkdown
+## R Markdown
 
-We will use R together with RMarkdown to analyse and report the 
-data of this project. RMarkdown enables one to analyze data and report it in one
+We will use R together with R Markdown to analyse and report the 
+data of this project. R Markdown enables one to analyze data and report it in one
 instance and in a dynamic manner. That is, if one later makes some analysis decision 
 that will affect all downstream analyses (such as removing an outlier), the
 document will be dynamically updated including all now perhaps changed results.
-A helpful guide to RMarkdown is given below, again together with a cheat sheet.
+A helpful guide to R Markdown is given below, again together with a cheat sheet.
 
 - [Bookdown][7]
-- [RMarkdown Cheat Sheet][8]
+- [R Markdown Cheat Sheet][8]
 
 Because we will also use the R package *papaja* dedicated to 
-use RMarkdown for writing scientific articles in APA style, one needs to install it
+use R Markdown for writing scientific articles in APA style, one needs to install it
 as described on the author's GitHub site and it may pay to familiarize yourself with 
 the manual:
 
 - [*papaja* Download][9]
 - [*papaja* Manual][10]
+
+&alpha;
 
 [1]:	https://www.markdownguide.org/
 [2]:	https://www.markdownguide.org/cheat-sheet/
